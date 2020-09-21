@@ -11,6 +11,6 @@ int main()
     }
     else
     {
-       cout <<num<<"不是3的倍數"; 
+       cout <<num<<"不是3的倍數\n"; 
     }
 }
